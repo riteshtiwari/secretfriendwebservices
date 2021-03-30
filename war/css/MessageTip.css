@@ -1,0 +1,81 @@
+@CHARSET "ISO-8859-1";
+
+/* -----------------------------------------    @author : Naveed  ----------------------------------------- */
+/*------------------------------------------    Message Tip Panel ----------------------------------------- */
+
+.msg{
+	opacity: 0.6;
+	font-size:16px;
+	color:#FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	padding: 8px ;
+	text-decoration: blink;
+}
+
+.upArrow {
+	border-style: solid;
+	border-width: 0px 8px 8px 8px;
+	height: 0px;
+	width: 0px;
+	position: relative;
+}
+.upArrowColorInfo{
+	opacity : 0.6;
+	border-color: #2F2323 transparent;
+}
+.upArrowColorNotify{
+	opacity : 0.6;
+	border-color: #2C3E57 transparent;
+}
+
+.upArrowColorReq{
+	opacity : 0.6;
+	border-color: #FF0000 transparent;
+}
+
+.upArrowColorErr{
+	
+	border-color: #FF0000 transparent;
+}
+
+.rightArrow {
+	border-color: transparent #2F2323;
+	border-style: solid;
+	border-width: 10px 0px 10px 10px;
+	height: 0px;
+	width: 0px;
+}
+
+.popupInfo{
+	border-color: transparent white;
+	border: 0px;
+	background-repeat: no-repeat;
+}
+
+.msgColorInfo{
+	background-color:#2F2323;
+	background-repeat: repeat-x;
+}
+
+.msgColorNotify{
+	background-color: #2C3E57;
+	background-repeat: repeat-x;
+}
+
+.msgColorReq{
+	background-color: #FF0000;
+	background-repeat: repeat-x;
+}
+
+.msgColorError{
+	background-color: #FF0000;
+	background-repeat: repeat-x;
+	text-decoration: blink;
+	-webkit-animation-name: blinker;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+	
+}
+

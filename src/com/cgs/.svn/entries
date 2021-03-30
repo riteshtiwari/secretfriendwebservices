@@ -1,0 +1,34 @@
+10
+
+dir
+76
+http://192.168.1.88/svn/SecretFriend/SecretFriendWS/src/com/cgs
+http://192.168.1.88/svn/SecretFriend
+
+
+
+2015-10-14T14:57:20.182601Z
+65
+kiran
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e4ec93e0-716e-497b-9d5b-49e1622484d3
+
+filter
+dir
+
+ws
+dir
+

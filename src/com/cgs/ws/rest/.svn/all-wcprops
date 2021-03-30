@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SecretFriend/!svn/ver/65/SecretFriendWS/src/com/cgs/ws/rest
+END
+EmailActivateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/src/com/cgs/ws/rest/EmailActivateImpl.java
+END
+MessageRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SecretFriend/!svn/ver/65/SecretFriendWS/src/com/cgs/ws/rest/MessageRestService.java
+END
+SecretFrientDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SecretFriend/!svn/ver/65/SecretFriendWS/src/com/cgs/ws/rest/SecretFrientDAO.java
+END
+SendEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/src/com/cgs/ws/rest/SendEmail.java
+END

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<script type="text/javascript" charset="utf-8"
+	src="jquery-1.8.2.min.js"></script>
+<body onload='load()'>
+
+<script>
+
+function load() {
+	//alert('alert'+window.location.href);
+	var link= window.location.href;
+	var sss = link.split('=');
+	var valu=sss[1].split('=');
+	//alert(valu);
+
+	 jQuery.post("/SecretFriendWS/rest/sf/emailActivate/",
+			 {email: ""+valu+""},
+			 function(data){
+				 
+					//alert(data);
+				document.write("<h1><font face=Verdana color=red>Secret Friend</font></h1>");
+				document.write("Your Account has been "+data);
+				document.close();
+			 });
+}
+</script>
+
+</body>
+</html>

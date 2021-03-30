@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/src/com/cgs/filter/controller
+END
+RESTFulCORSFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/src/com/cgs/filter/controller/RESTFulCORSFilter.java
+END
+CorsInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/src/com/cgs/filter/controller/CorsInterceptor.java
+END
+SecurityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/src/com/cgs/filter/controller/SecurityInterceptor.java
+END

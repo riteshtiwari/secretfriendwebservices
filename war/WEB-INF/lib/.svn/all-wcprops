@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib
+END
+imap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/imap.jar
+END
+smtp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/smtp.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/mail.jar
+END
+jcl-over-slf4j-1.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/jcl-over-slf4j-1.6.6.jar
+END
+xbean-spring-3.11.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/xbean-spring-3.11.1.jar
+END
+gimap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/gimap.jar
+END
+gwt-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/gwt-servlet.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/activation-1.1.jar
+END
+dsn.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/dsn.jar
+END
+jzlib-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/jzlib-1.1.1.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/commons-lang-2.6.jar
+END
+jackson-mapper-asl-1.9.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/jackson-mapper-asl-1.9.7.jar
+END
+apns-0.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/apns-0.1.5.jar
+END
+pop3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/pop3.jar
+END
+mailapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/mailapi.jar
+END
+slf4j-api-1.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/slf4j-api-1.6.6.jar
+END
+commons-logging-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/commons-logging-1.0.3.jar
+END
+ognl-3.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/ognl-3.0.5.jar
+END
+javassist-3.11.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/javassist-3.11.0.GA.jar
+END
+jackson-core-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/jackson-core-2.2.2.jar
+END
+tomcat-apr-5.5.23.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/tomcat-apr-5.5.23.jar
+END
+spring-2.5.6.SEC03.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/spring-2.5.6.SEC03.jar
+END
+flexjson-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/flexjson-2.1.jar
+END
+logback-core-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/logback-core-1.1.2.jar
+END
+javassist-3.7.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecretFriend/!svn/ver/59/SecretFriendWS/war/WEB-INF/lib/javassist-3.7.ga.jar
+END

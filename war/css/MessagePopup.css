@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+.messagePopupbody{
+	
+	/*background-color: rgba(145,165,175,0.8);
+	border-radius: 10px;
+	background-repeat: repeat-x;*/
+	background-color: #888888;
+	border-radius: 10px;
+}
+
+.messagePopupHeader{
+	/*background-color: #96b0e3; #D8D8D8 #FF6666*/
+	background-color: #FF6666;
+border-radius: 5px 5px 0 0;
+font-size: 12px;
+font-weight: bold;
+width: 100%;
+padding: 5px;
+color:#FFFFFF;
+}
+
+.messageBody
+{
+	font-size:12px;
+	color:#FFFFFF;
+	text-align: center;
+	padding: 8px ;
+}
+.okBtn{
+	/*background-color:#96b0e3;*/
+	background: -webkit-linear-gradient(top, #cae285 0%,#9fcb57 100%);
+	border-radius: 10px;
+	font-size: 11px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+
